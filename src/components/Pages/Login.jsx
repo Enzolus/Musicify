@@ -1,5 +1,5 @@
 import React from "react";
-import HeadPhone from '../assets/img/headphones.svg';
+import HeadPhone from '../assets/img/Musicify-_1_.svg';
 import './css/Login.scss';
 import {Link} from "react-router-dom";
 
@@ -8,7 +8,7 @@ class Login extends React.Component{
         return(
             <section id="main">
                     <div className="nav-item">
-                        <a className="navbar-brand" href="/">Vusic</a>
+                        <a className="navbar-brand" href="/">Musicify</a>
                     </div>
                     <div className="main-row">
                         <div className="main-row-img">
@@ -16,7 +16,7 @@ class Login extends React.Component{
                         </div>
                         <div className="main-row-text">
                             <h1>Music for everyone</h1>
-                            <p>Without music, life would be a mistake</p>
+                            <p>Sounds better with musicify</p>
                             <Link to={"/home"} className="btn">
                                 Start Listening
                             </Link>

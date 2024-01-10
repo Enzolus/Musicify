@@ -1,0 +1,80 @@
+/* Style général de la page */
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* Conteneur principal avec la classe login */
+.login {
+  max-width: 80%; /* Modifiez la largeur maximale ici */
+  margin: auto;
+  min-height: 300px; /* Ajustez la hauteur selon vos besoins */
+}
+
+/* Titre de la page */
+.login h2 {
+  text-align: center;
+  color: #3498db;
+  margin: 20px;
+}
+
+/* Messages d'erreur ou de succès */
+.login div[style] {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Conteneur des champs de saisie */
+.login div > div {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+/* Label des champs de saisie */
+.login label {
+  width: 100px;
+  margin-right: 10px;
+  margin: 20px;
+}
+
+/* Champs de saisie */
+.login input[type=text], .login input[type=password] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin: 20px;
+}
+
+/* Bouton de connexion */
+.login button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #3498db;
+  color: #fff;
+  margin: 20px;
+  cursor: pointer;
+}
+
+/* Effet au survol du bouton de connexion */
+.login button:hover {
+  opacity: 0.8;
+}
+
+/* Lien vers la page d'inscription */
+.login p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Style du lien */
+.login a {
+  color: #0000FF;
+  text-decoration: none;
+}
+
+/* Effet au survol du lien */
+.login a:hover {
+  text-decoration: underline;
+}

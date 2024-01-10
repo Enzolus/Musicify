@@ -12,12 +12,12 @@ const DropDownLanguageList = () => {
 
     const listOfLanguage = [
         "Any",
-        "Hindi",
         "English",
+        "French"
     ];
     const [selectedList, setSelectedList] = useState({
         "Any": false,
-        "Hindi": false,
+        "French": false,
         "English": false,
     });
     const handleSelected = (val, selected) => {

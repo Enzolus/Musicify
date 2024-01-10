@@ -10,6 +10,8 @@ import {PlaylistPlay} from "@material-ui/icons";
 
 function Profile() {
 
+    const userName = sessionStorage.getItem('userName');
+
     const {playlists} = useSelector(state => state.musicReducer);
     const [mostPlayed, setMostPlayed] = useState([]);
 
@@ -38,15 +40,14 @@ function Profile() {
                 <div className="top-profile">
                     <Avatar variant={"rounded"} src={require("../assets/img/avatar2.jpg")}
                             style={{width: "150px", height: "150px"}}>
-                        VS
                     </Avatar>
                     <div className="profile-detail">
-                        <h3>Vishal Singh</h3>
+                        <h3>{userName}</h3>
                         <span className={"profile-playlist"}>
                             <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay}
-                                            href={"/home/playlist/instrumental"} title={"Instrumental"}/>
-                            <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/electronic"}
-                                            title={"Electronic"}/>
+                                            href={"/home/playlist/pop"} title={"Pop"}/>
+                            <SideBarOptions className={"lib-sub"} Icon={PlaylistPlay} href={"/home/playlist/rap"}
+                                            title={"Rap"}/>
                         </span>
                     </div>
                 </div>

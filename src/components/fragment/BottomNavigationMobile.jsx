@@ -23,15 +23,15 @@ function BottomNavigationMobile() {
         },
         {
             id: 2,
-            icon: <AccountCircleOutlinedIcon/>,
+            icon: <ExploreOutlinedIcon/>,
             href: "/home/profile",
             label: "Profile"
         },
         {
             id: 3,
-            icon: <ExploreOutlinedIcon/>,
-            href: "/home/about",
-            label: "About"
+            icon: <AccountCircleOutlinedIcon/>,
+            href: "/home/connexion",
+            label: "Connexion"
         }
     ]);
     let currPath = window.location.pathname;

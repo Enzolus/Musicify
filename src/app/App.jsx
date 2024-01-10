@@ -18,7 +18,7 @@ const App = () => {
             dispatch(setPlaylist(musicDB))
         }
         else if (language.includes('hindi')){
-            alert("No hindi tracks available")
+            alert("No French tracks available")
         } else {
             let x = musicDB.filter((item)=>(
                 item.lang && language.includes(item.lang.toLowerCase())
