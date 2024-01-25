@@ -1,0 +1,314 @@
+[33mcommit 5bfb2f8cdbe39c2b3a2b1a231e201c3fe172cc44[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Enzo LUSARDI <enzolusardi@gmail.com>
+Date:   Thu Jan 25 01:23:36 2024 +0100
+
+    first commit
+
+[33mcommit 7d6f107bf3c378547b50bf8e3edbf295d5b0ff10[m
+Author: Enzolus <enzolusardi@gmail.com>
+Date:   Wed Jan 10 23:44:10 2024 +0100
+
+    first commit
+
+[33mcommit 6ce2af93293b691230f7e62f2d6462ed85196c03[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Oct 3 20:39:50 2022 +0530
+
+    Fix image bug
+
+[33mcommit 7fa742ebb8eaf65e9fb352d3adbbd22ddab559a8[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Oct 3 19:51:01 2022 +0530
+
+    Update pkg
+
+[33mcommit 37b610a5793eee8d2a49e03c43fbef62ef97870c[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Oct 3 19:38:15 2022 +0530
+
+    Update pkg
+
+[33mcommit 8404f5c40e39efe986b2d4db74ce48c7935683ca[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Oct 3 19:26:07 2022 +0530
+
+    Adding pkg.lock
+
+[33mcommit 1e4e8c02c3bc37086fc25795d6b3b0bf562d2237[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Tue Apr 5 12:03:25 2022 +0530
+
+    react-scripts update
+
+[33mcommit ebfbd1a54463ceaa6aa213507996ce5165df34aa[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Tue Apr 5 11:46:44 2022 +0530
+
+    Updated node-sass to sass
+
+[33mcommit dc95bf40c3622c1263fa242661c76630250b9e1d[m
+Merge: df85277 d3d81af
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Jan 11 15:00:18 2021 +0530
+
+    Merge branch 'main' of https://github.com/Vishal023/Vusic into main
+
+[33mcommit df85277f9ba9ae744e49cc2da3807c1fd30b87e2[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Jan 11 14:49:45 2021 +0530
+
+    added skeleton for loading and updated axios dependency
+
+[33mcommit d3d81afaafafd00977edcfa72293193b7886b747[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Tue Nov 10 18:47:54 2020 +0530
+
+    Update README.md
+
+[33mcommit 691902290925b26dd54fc7f20a7c63051b1d6874[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Thu Nov 5 10:19:43 2020 +0530
+
+    update
+
+[33mcommit 936f0be413f73ae10705f78c7d798b8b99412a93[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Tue Nov 3 13:51:01 2020 +0530
+
+    modified ui
+
+[33mcommit 4042dbdfe0c8b523e9c6987de2e64297689addc7[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Tue Nov 3 13:50:52 2020 +0530
+
+    modified ui
+
+[33mcommit d558f5785763a0963cdae19c0a55a4302f6bad96[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Nov 2 11:04:16 2020 +0530
+
+    added and modified playlist button
+
+[33mcommit c83a141304ab6717327405adb20afb925c8fb182[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 21:50:09 2020 +0530
+
+    fixed about
+
+[33mcommit 3c7c3cad2b4de7f939c391471dfd53abb3bd87f1[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 21:48:40 2020 +0530
+
+    optimized imports
+
+[33mcommit f41ee76ca57ff32087429f4c85e58b43172f90d1[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 21:47:58 2020 +0530
+
+    added link to social media
+
+[33mcommit cf914fad61e4e1a788e4beb3ea5733d4ac7d868b[m
+Merge: 2d3e2b0 1902ac1
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 21:37:54 2020 +0530
+
+    Merge branch 'main' of https://github.com/Vishal023/Vusic into main
+
+[33mcommit 2d3e2b0605d46de633f57dd427e09d6a632a5d95[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 21:37:35 2020 +0530
+
+    fixed some components and added about page
+
+[33mcommit 1902ac169696ca8df9800a9086d70ae9fbffbfd6[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Sun Nov 1 13:33:22 2020 +0530
+
+    Set theme jekyll-theme-architect
+
+[33mcommit bae35e3b03e2c16fbdcf486e8935c9159202a3b5[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Sun Nov 1 13:30:30 2020 +0530
+
+    Update README.md
+
+[33mcommit 0e289121bbd34eeb66ea490c8149123677d9b836[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 13:28:48 2020 +0530
+
+    update
+
+[33mcommit e0c57276a4efd6d06a2764deddb32513ca30eeac[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Sun Nov 1 13:26:48 2020 +0530
+
+    removed wrong readme
+
+[33mcommit 0bd2006dcbb7f8d2fac6e797f6d95a79d13e223b[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Sun Nov 1 13:26:21 2020 +0530
+
+    Update README.md
+
+[33mcommit bfe97e1dd9d328987c300665bb1ad6ec7827ef3b[m
+Author: Vishal Singh <42888189+Vishal023@users.noreply.github.com>
+Date:   Sun Nov 1 13:25:42 2020 +0530
+
+    Update README.md
+
+[33mcommit 46f26b7774678b9c65535629fd5ddd7bd36f1dbc[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 12:17:32 2020 +0530
+
+    modified search page and fixed dropdown ans siderbar playlist
+
+[33mcommit d574df538e08492e84fb856261e82556875049b4[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:28:24 2020 +0530
+
+    modified dropdown nav language and profile, new searchbar, new music card container
+
+[33mcommit 75495964ee01fcce62d156396d0e07919e8699e7[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:27:17 2020 +0530
+
+    container view for the sub home pages
+
+[33mcommit 04982ad2b9263f1b7444470a7126bd3c9c1f9ecc[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:26:35 2020 +0530
+
+    updated search bar functionality and look
+
+[33mcommit 52e4d4cf9bb8afc4371f0575e02a151d6aee96db[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:25:19 2020 +0530
+
+    modified sidebar with new look
+
+[33mcommit 26b09da713994247b607e74bfcc50d8c21bd06d9[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:24:22 2020 +0530
+
+    updated reducer w.r.t. search music and set language
+
+[33mcommit d5a8033bf4e9015703d0124e221b8092d281e3f8[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:23:26 2020 +0530
+
+    added and updated  brand logo
+
+[33mcommit 21f009abc03225ba9782ad312761c9ea3f6ac771[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:22:29 2020 +0530
+
+    added actions for searching music and setting langugage of music
+
+[33mcommit 034f6d40654d01acaf9494127d84e7fe28601724[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:21:15 2020 +0530
+
+    modified profile view of user
+
+[33mcommit ff818ad5a29a64ab80bb9b60cccbdec5d799f4a4[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sun Nov 1 00:20:16 2020 +0530
+
+    added headphone logo for website logo
+
+[33mcommit 928669cd8cb09f34161dd79266be11e92ec3bc00[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 16:52:33 2020 +0530
+
+    Updated container explore
+
+[33mcommit 83884ae4ad098e533611a8978ab7d5411ca3694b[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 16:51:49 2020 +0530
+
+    modified and fixed search bar
+
+[33mcommit 25dffa84532bcd68d7fbf425de35e008fb251117[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 11:53:26 2020 +0530
+
+    updated readme
+
+[33mcommit eca4c13aa448a3f026f8d850d19549fa9e0fcb99[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 10:15:41 2020 +0530
+
+    update
+
+[33mcommit 2333655d558201b405143ebb3aade6eb877ac75d[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 09:54:07 2020 +0530
+
+    update
+
+[33mcommit fc76ba941aa96e3f63b9efaadeb5fadf45603293[m
+Merge: af7f302 9b6441c
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 09:52:47 2020 +0530
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit af7f30226b40e1ab4c6aab761846ac0e6bac7ca7[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 09:43:33 2020 +0530
+
+    Fixed require returning [object Module]
+
+[33mcommit 9b6441cd092b6ccf39eaf3869a583e732785fc61[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 31 08:44:24 2020 +0530
+
+    update
+
+[33mcommit e054207e23eec7295cbf929eb76d5bcecd842ce4[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Thu Oct 29 18:03:36 2020 +0530
+
+    update
+
+[33mcommit eb3ec084c2846a25faff7061883d0bb99680f19a[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Thu Oct 29 10:26:58 2020 +0530
+
+    update
+
+[33mcommit a68a437c9d19f4a45f8ac70068686da187820e4f[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Wed Oct 28 16:23:03 2020 +0530
+
+    added Non copyright content
+
+[33mcommit 41a960f3fa407daa1cc2febe6e49e5d49d8cd8e1[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Sat Oct 17 12:42:46 2020 +0530
+
+    added music banner
+
+[33mcommit 34cda93024fda3d49c521833276a111e4dcdc582[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Fri Oct 16 22:15:06 2020 +0530
+
+    fixed next prev button
+
+[33mcommit 9866f33c85c2a966296ed11c6651a5598a848719[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Fri Oct 16 12:53:30 2020 +0530
+
+    fixed play-pause, added reducers,actions,context apis
+
+[33mcommit 86ec5d0f1c5aa7a24aa390e31fabddd954580667[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Mon Oct 12 17:24:14 2020 +0530
+
+    Pre release commit
+
+[33mcommit f9156724350c40a16eba5a276fc46dd8ae61958f[m
+Author: Vishal Singh <v.singh.kld@gmail.com>
+Date:   Fri Oct 9 16:58:22 2020 +0530
+
+    Initialize project using Create React App
